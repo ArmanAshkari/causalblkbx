@@ -1,0 +1,275 @@
+Index: 740
+Predicate: `Duration` == 24 and `Saving accounts` == 1 and `Checking account` == 0
+Reproducibility: 0.935
+Drop subset size: 3
+Drop subset: Index([918, 872, 15], dtype='int64')
+Index: 740
+Predicate: `Job` == 2 and `Saving accounts` == 1 and `Checking account` == 0
+Reproducibility: 0.945
+Drop subset size: 7
+Drop subset: Index([918, 872, 518, 43, 188, 610, 156], dtype='int64')
+Index: 740
+Predicate: `Housing` == 1 and `Saving accounts` == 1 and `Checking account` == 0
+Reproducibility: 0.96
+Drop subset size: 7
+Drop subset: Index([918, 872, 518, 15, 188, 610, 156], dtype='int64')
+Index: 740
+Predicate: `Saving accounts` == 1 and `Checking account` == 0
+Reproducibility: 0.955
+Drop subset size: 8
+Drop subset: Index([918, 872, 518, 43, 15, 188, 610, 156], dtype='int64')
+Index: 174
+Predicate: `Purpose` == 3 and `Job` == 2 and `Checking account` == 0
+Reproducibility: 0.955
+Drop subset size: 7
+Drop subset: Index([789, 711, 131, 885, 417, 203, 471], dtype='int64')
+Index: 174
+Predicate: `Duration` == 21 and `Job` == 2 and `Saving accounts` == 0
+Reproducibility: 0.955
+Drop subset size: 7
+Drop subset: Index([535, 144, 961, 179, 825, 790, 620], dtype='int64')
+Index: 174
+Predicate: `Duration` == 21 and `Housing` == 1 and `Saving accounts` == 0
+Reproducibility: 0.915
+Drop subset size: 8
+Drop subset: Index([144, 961, 179, 825, 790, 620, 841, 772], dtype='int64')
+Index: 174
+Predicate: `Duration` == 21 and `Housing` == 1 and `Checking account` == 0
+Reproducibility: 0.935
+Drop subset size: 5
+Drop subset: Index([182, 179, 825, 906, 612], dtype='int64')
+Index: 174
+Predicate: `Duration` == 21 and `Saving accounts` == 0 and `Checking account` == 0
+Reproducibility: 0.9299999999999999
+Drop subset size: 4
+Drop subset: Index([896, 179, 825, 341], dtype='int64')
+Index: 174
+Predicate: `Duration` == 21 and `Checking account` == 0
+Reproducibility: 0.95
+Drop subset size: 7
+Drop subset: Index([896, 182, 179, 825, 341, 906, 612], dtype='int64')
+Index: 235
+Predicate: `Purpose` == 5 and `Duration` == 24 and `Job` == 3
+Reproducibility: 0.935
+Drop subset size: 3
+Drop subset: Index([904, 279, 955], dtype='int64')
+Index: 235
+Predicate: `Purpose` == 5 and `Job` == 3 and `Checking account` == 0
+Reproducibility: 0.95
+Drop subset size: 6
+Drop subset: Index([896, 876, 116, 142, 905, 955], dtype='int64')
+Index: 687
+Predicate: `Purpose` == 1 and `Duration` == 36 and `Housing` == 0
+Reproducibility: 0.945
+Drop subset size: 6
+Drop subset: Index([501, 828, 511, 563, 392, 378], dtype='int64')
+Index: 687
+Predicate: `Purpose` == 1 and `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.95
+Drop subset size: 1
+Drop subset: Index([611], dtype='int64')
+Index: 687
+Predicate: `Purpose` == 1 and `Housing` == 0 and `Checking account` == 1
+Reproducibility: 0.96
+Drop subset size: 9
+Drop subset: Index([381, 18, 272, 163, 808, 186, 563, 378, 187], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Job` == 2 and `Housing` == 0
+Reproducibility: 0.945
+Drop subset size: 6
+Drop subset: Index([501, 68, 828, 607, 563, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Job` == 2 and `Saving accounts` == 1
+Reproducibility: 0.955
+Drop subset size: 3
+Drop subset: Index([607, 671, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Job` == 2 and `Checking account` == 1
+Reproducibility: 0.9299999999999999
+Drop subset size: 8
+Drop subset: Index([907, 530, 301, 607, 563, 98, 815, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.96
+Drop subset size: 2
+Drop subset: Index([607, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Housing` == 0 and `Checking account` == 1
+Reproducibility: 0.935
+Drop subset size: 5
+Drop subset: Index([607, 563, 378, 62, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Saving accounts` == 1 and `Checking account` == 1
+Reproducibility: 0.94
+Drop subset size: 5
+Drop subset: Index([653, 684, 496, 607, 87], dtype='int64')
+Index: 687
+Predicate: `Duration` == 36 and `Saving accounts` == 1
+Reproducibility: 0.92
+Drop subset size: 6
+Drop subset: Index([653, 684, 496, 607, 671, 87], dtype='int64')
+Index: 687
+Predicate: `Job` == 2 and `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.945
+Drop subset size: 4
+Drop subset: Index([150, 607, 702, 87], dtype='int64')
+Index: 687
+Predicate: `Job` == 2 and `Housing` == 0 and `Checking account` == 1
+Reproducibility: 0.96
+Drop subset size: 7
+Drop subset: Index([360, 340, 349, 788, 607, 563, 87], dtype='int64')
+Index: 687
+Predicate: `Housing` == 0 and `Saving accounts` == 1 and `Checking account` == 1
+Reproducibility: 0.945
+Drop subset size: 5
+Drop subset: Index([287, 374, 607, 191, 87], dtype='int64')
+Index: 687
+Predicate: `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.95
+Drop subset size: 8
+Drop subset: Index([611, 287, 374, 150, 607, 702, 191, 87], dtype='int64')
+Index: 578
+Predicate: `Duration` == 36 and `Job` == 2 and `Checking account` == 1
+Reproducibility: 0.9299999999999999
+Drop subset size: 8
+Drop subset: Index([907, 530, 301, 607, 563, 98, 815, 87], dtype='int64')
+Index: 578
+Predicate: `Duration` == 36 and `Housing` == 1 and `Checking account` == 1
+Reproducibility: 0.925
+Drop subset size: 9
+Drop subset: Index([141, 907, 530, 181, 653, 684, 301, 735, 98], dtype='int64')
+Index: 289
+Predicate: `Purpose` == 5 and `Duration` == 24 and `Checking account` == 0
+Reproducibility: 0.945
+Drop subset size: 7
+Drop subset: Index([731, 15, 630, 862, 561, 955, 466], dtype='int64')
+Index: 307
+Predicate: `Purpose` == 5 and `Duration` == 12 and `Job` == 1
+Reproducibility: 0.955
+Drop subset size: 8
+Drop subset: Index([220, 92, 126, 480, 762, 8, 765, 769], dtype='int64')
+Index: 959
+Predicate: `Duration` == 24 and `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.935
+Drop subset size: 1
+Drop subset: Index([702], dtype='int64')
+Index: 959
+Predicate: `Housing` == 0 and `Saving accounts` == 1 and `Checking account` == 1
+Reproducibility: 0.945
+Drop subset size: 5
+Drop subset: Index([287, 374, 607, 191, 87], dtype='int64')
+Index: 959
+Predicate: `Housing` == 0 and `Saving accounts` == 1
+Reproducibility: 0.95
+Drop subset size: 8
+Drop subset: Index([611, 287, 374, 150, 607, 702, 191, 87], dtype='int64')
+Index: 559
+Predicate: `Duration` == 18 and `Job` == 1 and `Housing` == 1
+Reproducibility: 0.94
+Drop subset size: 9
+Drop subset: Index([588, 539, 42, 751, 233, 785, 282, 524, 498], dtype='int64')
+Index: 559
+Predicate: `Duration` == 18 and `Job` == 1 and `Checking account` == 1
+Reproducibility: 0.925
+Drop subset size: 7
+Drop subset: Index([42, 801, 112, 233, 785, 524, 498], dtype='int64')
+Index: 583
+Predicate: `Purpose` == 6 and `Job` == 1 and `Checking account` == 1
+Reproducibility: 0.95
+Drop subset size: 4
+Drop subset: Index([42, 964, 641, 691], dtype='int64')
+Index: 583
+Predicate: `Job` == 1 and `Housing` == 2 and `Checking account` == 1
+Reproducibility: 0.94
+Drop subset size: 6
+Drop subset: Index([593, 801, 739, 752, 112, 391], dtype='int64')
+Index: 429
+Predicate: `Purpose` == 6 and `Duration` == 18 and `Saving accounts` == 0
+Reproducibility: 0.965
+Drop subset size: 3
+Drop subset: Index([42, 842, 779], dtype='int64')
+Index: 429
+Predicate: `Purpose` == 6 and `Duration` == 18
+Reproducibility: 0.965
+Drop subset size: 3
+Drop subset: Index([42, 842, 779], dtype='int64')
+Index: 429
+Predicate: `Job` == 0 and `Housing` == 0
+Reproducibility: 0.9299999999999999
+Drop subset size: 2
+Drop subset: Index([774, 187], dtype='int64')
+Index: 429
+Predicate: `Job` == 0 and `Saving accounts` == 0 and `Checking account` == 0
+Reproducibility: 0.95
+Drop subset size: 4
+Drop subset: Index([364, 640, 438, 972], dtype='int64')
+Index: 309
+Predicate: `Purpose` == 1 and `Duration` == 9 and `Job` == 1
+Reproducibility: 0.95
+Drop subset size: 3
+Drop subset: Index([231, 909, 472], dtype='int64')
+Index: 309
+Predicate: `Purpose` == 1 and `Duration` == 9 and `Saving accounts` == 0
+Reproducibility: 0.95
+Drop subset size: 6
+Drop subset: Index([586, 186, 932, 472, 878, 20], dtype='int64')
+Index: 309
+Predicate: `Purpose` == 1 and `Job` == 1 and `Checking account` == 1
+Reproducibility: 0.92
+Drop subset size: 8
+Drop subset: Index([783, 422, 581, 634, 593, 909, 112, 313], dtype='int64')
+Index: 309
+Predicate: `Duration` == 9 and `Job` == 1 and `Saving accounts` == 0
+Reproducibility: 0.945
+Drop subset size: 4
+Drop subset: Index([709, 472, 957, 574], dtype='int64')
+Index: 309
+Predicate: `Duration` == 9 and `Job` == 1 and `Checking account` == 1
+Reproducibility: 0.9299999999999999
+Drop subset size: 5
+Drop subset: Index([723, 909, 709, 957, 574], dtype='int64')
+Index: 309
+Predicate: `Duration` == 9 and `Job` == 1
+Reproducibility: 0.94
+Drop subset size: 8
+Drop subset: Index([231, 629, 723, 909, 709, 472, 957, 574], dtype='int64')
+Index: 309
+Predicate: `Duration` == 9 and `Housing` == 2 and `Checking account` == 1
+Reproducibility: 0.955
+Drop subset size: 1
+Drop subset: Index([103], dtype='int64')
+Index: 595
+Predicate: `Duration` == 6 and `Saving accounts` == 1
+Reproducibility: 0.955
+Drop subset size: 5
+Drop subset: Index([518, 150, 348, 492, 379], dtype='int64')
+Index: 649
+Predicate: `Purpose` == 3 and `Duration` == 12 and `Job` == 1
+Reproducibility: 0.9299999999999999
+Drop subset size: 6
+Drop subset: Index([2, 990, 263, 443, 157, 782], dtype='int64')
+Index: 649
+Predicate: `Purpose` == 3 and `Duration` == 12 and `Checking account` == 0
+Reproducibility: 0.94
+Drop subset size: 3
+Drop subset: Index([885, 203, 157], dtype='int64')
+Index: 649
+Predicate: `Purpose` == 3 and `Duration` == 12
+Reproducibility: 0.965
+Drop subset size: 9
+Drop subset: Index([2, 990, 885, 203, 263, 443, 157, 463, 782], dtype='int64')
+Index: 208
+Predicate: `Purpose` == 0 and `Duration` == 24 and `Job` == 1
+Reproducibility: 0.96
+Drop subset size: 1
+Drop subset: Index([597], dtype='int64')
+Index: 208
+Predicate: `Purpose` == 0 and `Duration` == 24 and `Saving accounts` == 0
+Reproducibility: 0.95
+Drop subset size: 6
+Drop subset: Index([169, 597, 245, 606, 843, 402], dtype='int64')
+Index: 208
+Predicate: `Duration` == 24 and `Job` == 1 and `Checking account` == 0
+Reproducibility: 0.955
+Drop subset size: 7
+Drop subset: Index([731, 83, 930, 15, 561, 13, 466], dtype='int64')
